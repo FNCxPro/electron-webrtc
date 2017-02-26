@@ -1,7 +1,7 @@
 {
-  "name": "electron-webrtc",
+  "name": "electron-webrtc-patched",
   "version": "0.3.0",
-  "description": "Use WebRTC in Node.js via a hidden Electron process",
+  "description": "Use WebRTC in Node.js via a hidden Electron process -- forked because the previous maintainer is unavailable",
   "main": "index.js",
   "browser": "browser.js",
   "scripts": {

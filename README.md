@@ -1,6 +1,8 @@
 # electron-webrtc
 
-[![npm version](https://img.shields.io/npm/v/electron-webrtc.svg)](https://www.npmjs.com/package/electron-webrtc)
+**This is a fork of mappum/electron-webrtc** that I will maintain until my patches (mappum/electron-webrtc#92 and mappum/electron-webrtc#91) get accepted.
+
+[![npm version](https://img.shields.io/npm/v/electron-webrtc.svg)](https://www.npmjs.com/package/electron-webrtc-patched)
 [![Build Status](https://travis-ci.org/mappum/electron-webrtc.svg?branch=master)](https://travis-ci.org/mappum/electron-webrtc)
 [![Dependency Status](https://david-dm.org/mappum/electron-webrtc.svg)](https://david-dm.org/mappum/electron-webrtc)
 
